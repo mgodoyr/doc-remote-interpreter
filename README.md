@@ -1,4 +1,4 @@
-#Configuracion de interprete remoto para python
+# Configuracion de interprete remoto para python
 
 
 
@@ -6,7 +6,7 @@ Sigue los pasos descritos  a continuacion para tener
 una forma exitosa de tu interprete remoto.
 
 
-##disclaimer:
+## disclaimer:
 
 _se debe aclarar que este tipo de configuracion solo funciona
 con pycharm profesional, ademas de poseer una cuenta en amazon web service
